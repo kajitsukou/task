@@ -79,27 +79,30 @@ header {
 
 main {
   width: 100%;
-  margin: 50px auto;
 }
 
 .step-box {
   float: none;
-  width: 100%;
+  width: 90%;
+  margin: 0 auto 20px;
+}
+
+.step-box:last-child {
+  margin: 0 auto;
 }
 
 .step-img1 {
-  height: 572px;
+  height: 150px;
 }
 
 .step-img2 {
-  height: 572px;
+  height: 150px;
 }
 
 .step-img3 {
-  height: 572px;
+  height: 150px;
 }
 
 .title {
   width: 100%;
-  margin: 15px 0 5px;
 }
